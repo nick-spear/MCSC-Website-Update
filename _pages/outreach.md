@@ -7,57 +7,57 @@ category: education
 
 <h1>Outreach</h1>
 <h3>Cybersecurity Guides</h3>
-<ul class="about_list">	
-	<li ><a href="{{ site.baseurl }}pdf/sbcsguide.pdf" download="sbcsguide">Small Business Cybersecurity Guide</a></li>
-	<li ><a href="{{ site.baseurl }}pdf/sbcsguide_trifold.pdf" download="sbcsguide_trifold">Small Business Cybersecurity Guide Trifold</a></li>
+<ul class="about_list">
+	<li ><a href="{{ site.github.url }}pdf/sbcsguide.pdf" download="sbcsguide">Small Business Cybersecurity Guide</a></li>
+	<li ><a href="{{ site.github.url }}pdf/sbcsguide_trifold.pdf" download="sbcsguide_trifold">Small Business Cybersecurity Guide Trifold</a></li>
 </ul>
 
 
 <h3>Vigilant Guard 14</h3>
-MCSC in partnership with the Maine Air National Guard were able to 
-provide simulated and real cyber events to private industry&#44; local&#44; 
-state and federal agencies as part of the Vigilant Guard 14 disaster 
-exercise by leveraging students and computer facilities from within 
-the University of Maine System&#46;  In all previous drills of this nature 
-the cyber event was confined to a &#34;range&#34; with results reported to other 
-participants and these rarely&#44; if ever&#44; involved teams from multiple 
+MCSC in partnership with the Maine Air National Guard were able to
+provide simulated and real cyber events to private industry&#44; local&#44;
+state and federal agencies as part of the Vigilant Guard 14 disaster
+exercise by leveraging students and computer facilities from within
+the University of Maine System&#46;  In all previous drills of this nature
+the cyber event was confined to a &#34;range&#34; with results reported to other
+participants and these rarely&#44; if ever&#44; involved teams from multiple
 organizations&#46;
 
 The event was a success because&#58;
 
-<ul class="resource_list">	
-	
+<ul class="resource_list">
+
 	<li>
-		We were able to integrate cyber events with other activities and thus provide a more realistic experience for the participants in 
-		VG14 and enabling them to complete some of their annual training goals thus saving 
-		money&#44; time while improving the participants ability to respond to various forms of disasters&#46;		
+		We were able to integrate cyber events with other activities and thus provide a more realistic experience for the participants in
+		VG14 and enabling them to complete some of their annual training goals thus saving
+		money&#44; time while improving the participants ability to respond to various forms of disasters&#46;
 	</li>
 	<br />
 	<li>
-		Students gained work experience both within the cyber security and related fields along with the planning and execution of complex 
+		Students gained work experience both within the cyber security and related fields along with the planning and execution of complex
 		exercises&#46;
 	</li>
 	<br />
 	<li>
-		The Maine Cyber Security Cluster&#44; housed on the USM campus&#44; proved that it was able to act as a nexus of contact between the 
+		The Maine Cyber Security Cluster&#44; housed on the USM campus&#44; proved that it was able to act as a nexus of contact between the
 		University of Maine System&#44; private industry,&#44; local&#44; state and federal agencies in the field of cyber security&#46;
 	</li>
 </ul>
 <br />
-Two near term tangible outgrowths of the VG14 work will be a pair of classes targeting cyber security education and outreach within Maine. 
-								
-The firstof these classes will be a 4 hour event aimed at individuals and small organizations that wish to experience a cyber event and 
-respond within a controlled environment&#46; 
+Two near term tangible outgrowths of the VG14 work will be a pair of classes targeting cyber security education and outreach within Maine.
+
+The firstof these classes will be a 4 hour event aimed at individuals and small organizations that wish to experience a cyber event and
+respond within a controlled environment&#46;
 <br />
 <br />
-								
+
 The second of these classes will be a longer term &#34;mini VG14&#34; that will enable an organization to&#58;
 
 <ul class="resource_list">
 	<li>Integrate a cyber event into a larger disaster drill</li>
-	<br />								
+	<br />
 	<li>Complete some of their annual cyber training</li>
-	<br />				
+	<br />
 	<li>Test mutual aid for cyber events</li>
 </ul>
 <br />
