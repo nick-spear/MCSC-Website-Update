@@ -27,16 +27,16 @@
                 <!-- check to see if the data file has a submenu, and if so display it -->
                 {% if dale.subcategories != null %}
                     <li class="dropdown">
-                        <a href="{{ site.github.url }}{{ dale.href }}">{{ dale.title }}</a>
+                        <a href="{{ site.github.url }}/{{ dale.href }}">{{ dale.title }}</a>
                         <ul>
                         {% for subcategory in dale.subcategories %}
-                            <li><a href="{{ site.github.url }}{{subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                            <li><a href="{{ site.github.url }}/{{subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                         {% endfor %}
                         </ul>
                 {% else %}
                     <!— display the top level navigation for items that don’t have a submenu -->
                     <li>
-                        <a href="{{ site.github.url }}{{ dale.href }}">{{ dale.title }}</a>
+                        <a href="{{ site.github.url }}/{{ dale.href }}">{{ dale.title }}</a>
                 {% endif %}
                     </li>
             {% endfor %}
