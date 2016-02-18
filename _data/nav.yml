@@ -1,0 +1,53 @@
+- title: "Home"
+  href: ""
+ 
+- title: "About"
+  href: "about/"
+  subcategories:
+    - subtitle: "Director's Overview"
+      subhref: "about/"
+    #- subtitle: "Collaborators"
+    #  subhref: "about/collaborators.html"
+    #- subtitle: "Sponsors"
+    #  subhref: "about/sponsors.html"
+    #- subtitle: "Faculty and Staff"
+    #  subhref: "about/facultystaff.html"
+    - subtitle: "Students"
+      subhref: "about/student.html"
+ 
+- title: "Research"
+  href: "research/studentres.html"
+  subcategories:
+    #- subtitle: "Research Profiles"
+    #  subhref: "research/"
+    #- subtitle: "Selected Publications"
+    #  subhref: "research/selectedpub.html"
+    - subtitle: "Selected Presentations"
+      subhref: "research/selectedpres.html"
+      menu: research
+    - subtitle: "Student Research"
+      subhref: "research/studentres.html"
+      menu: research
+- title: "Education"
+  href: "education/"
+  subcategories:
+    - subtitle: "Outreach"
+      subhref: "education/outreach.html"
+    #- subtitle: "Media"
+    #  subhref: "education/media.html"
+ 
+- title: "News"
+  href: "news/"
+  subcategories:
+    - subtitle: "Current"
+      subhref: "news/"
+    - subtitle: "Archive"
+      subhref: "news/archive.html"
+ 
+- title: "Resources"
+  href: "resources/"
+  subcategories:
+    - subtitle: "Resources"
+      subhref: "resources/"
+    - subtitle: "Calendar of Events"
+      subhref: "resources/coe.html"

@@ -1,0 +1,17 @@
+.resources_block{
+
+position:relative;
+display:block;
+width:920px;
+
+}
+
+.resources_list ul{
+
+}
+
+.resource_list li{
+padding-left:40px;
+line-height:20px;
+}
+

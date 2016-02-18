@@ -1,0 +1,76 @@
+<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget posts">
+								<!-- Title -->
+								<h3>Upcoming Events</h3>
+								
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									<ul class ="post-list">
+									{% for post in site.categories.upcoming %}
+      									<li>
+   
+
+         									
+          									<h4><a class="post-link"  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          
+        
+        									<p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+    							 		 </li>
+      
+   									 {% endfor %}
+   									<ul>
+   								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+
+									<!-- Image Column 
+									<div class="img-column">
+										<a href="blog-post.html" class="image-link mini"><img alt="" src="images/placeholders/placeholder-mini.jpg" class="fullwidth"/></a>
+									</div>
+=======
+									<!-- Image Column -->
+									
+
+								
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+
+									<!-- Image Column 
+									<div class="img-column">
+										<a href="blog-post.html" class="image-link mini"><img alt="" src="images/placeholders/placeholder-mini.jpg" class="fullwidth"/></a>
+									</div>
+=======
+									<!-- Image Column -->
+									
+
+									<!-- Content Column -->
+									<div class="content-column">
+										<!-- Post Title -->
+									
+									</div>
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->

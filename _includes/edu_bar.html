@@ -1,0 +1,95 @@
+<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Quick Nav -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget categories">
+								
+								<ul ><h3 style="margin-bottom:5px;">Quick Links</h3>
+                
+                					
+               						<li><a href="{{site.baseurl}}education/outreach.html">Outreach</a></li>
+               						
+                					<!--<li><a href="{{site.baseurl}}education/media.html">Media</a></li>-->
+               				
+              					</ul>
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Quick Nav -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<h3 style="margin-bottom:5px;">Latest Posts</h3>
+							<div class="sidebar-widget search">
+								<ul class="post-list">
+    								{% for post in site.categories.mcscnews %}
+      									<li>
+  
+        									<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title }}</a>
+
+        									<p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+        									<h4></h4>
+      									</li>
+      
+   									 {% endfor %}
+  								</ul>
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Search -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Latest Project -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget project">
+								<!-- Title -->
+								
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Latest Project -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget posts">
+								<!-- Title -->
+								
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									<!-- Image Column -->
+								
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									<!-- Image Column -->
+									
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									
+									
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->

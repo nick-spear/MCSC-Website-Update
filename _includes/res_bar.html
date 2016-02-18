@@ -1,0 +1,98 @@
+<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Quick Nav -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget categories">
+			
+				
+						<ul ><h2 style="margin-bottom:5px;">Quick Links</h2>
+                
+                          
+                          <!--<li><a href="{{site.baseurl}}research/index.html">Research Profiles</a></li>-->
+                          <!--<li><a href="{{site.baseurl}}research/selectedpub.html">Selected Publications</a></li>-->
+                          <li><a href="{{site.baseurl}}research/selectedpres.html">Selected Presentations</a></li>
+                          <li><a href="{{site.baseurl}}research/studentres.html">Student Research</a></li>
+                        
+                        </ul>
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Quick Nav -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<h2 style="margin-bottom:5px;">Latest Posts</h2>
+							<div class="sidebar-widget search">
+								<ul class="post-list">
+    								{% for post in site.categories.mcscnews %}
+      									
+      									<li>
+  
+        									<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title }}</a>
+
+        									<p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+        									<h4></h4>
+      									</li>
+      
+   									 {% endfor %}
+  								</ul>
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Search -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Latest Project -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget project">
+								<!-- Title -->
+								
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Latest Project -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<div class="sidebar-widget posts">
+								<!-- Title -->
+								
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									<!-- Image Column -->
+								
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									<!-- Image Column -->
+									
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<div class="post">
+									
+									
+								</div>
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+								<!-- END Post -->
+								<!-- ~~~~~~~~~~~~~~~~~ -->
+
+							</div>
+							<!-- ~~~~~~~~~~~~~~~~~ -->
+							<!-- END Popular Posts -->
+							<!-- ~~~~~~~~~~~~~~~~~ -->
