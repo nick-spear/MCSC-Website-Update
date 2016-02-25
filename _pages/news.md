@@ -1,8 +1,7 @@
 ---
 layout: news
-title: News
-permalink: /news/index.htm
-category: news
+title: News &amp; Events
+permalink: /news-events/
 ---
 <h1>News</h1>
 

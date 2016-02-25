@@ -1,12 +1,11 @@
 ---
-layout: about
+layout: 2column
 title: Sitemap
-permalink: sitemap.html
-category: sitemap
+permalink: sitemap
 ---
 <h1>Sitemap</h1>
 
-<ul class="resource_list">
+<!-- <ul class="resource_list">
 				<li><a href="{{ site.github.url }}">Home</a>
 					<ul class="resource_list">
 
@@ -50,4 +49,4 @@ category: sitemap
 				</li>
 				<li><a href="{{ site.github.url }}/contact.html">Contact Us</a></li>
 				<li><a href="{{ site.github.url }}/sitemap.html">Sitemap</a></li>
-			</ul>
+			</ul> -->
