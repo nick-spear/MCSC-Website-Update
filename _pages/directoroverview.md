@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Director's Overview
-permalink: /about/index.html
+permalink: /about/director.html
 category: about
 ---
 
