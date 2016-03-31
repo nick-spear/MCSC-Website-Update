@@ -6,7 +6,7 @@ categories: archive
 
 ---
 
-Science Cafe takes on cyber surveillance conversation
+<h1>Science Cafe takes on cyber surveillance conversation</h1>
 
 <p>“‘You are watched by all sorts of people,’ scientific systems administrator Edward Sihler of USM’s ‘Information and Innovation’ program said when describing the subject of the discussion at the most recent Science Cafe … “</p>
 
