@@ -37,3 +37,11 @@ Louis Hychko Jr, Student, USM
 <p>“When everything was 'falling apart' during the simulated 'attacks' on our networks, it was good to know that there were people who were able to work on the various issues and there were resources at hand (printed materials, online, et cetera) to guide me during these crises.  Being able to work through the problem as part of a team lessened the fear and panic aspects that would have hit an individual dealing with the same issues alone.  Having been through this series of simulations, I know now that these issues happen, and can be controlled and combated with training and experience.”</p>
 
 Stephen Allain, Student, YCCC
+
+<figure>
+<img src="/img/BPP_at_YCCC (1).JPG" alt="Students at YCCC" width="3456" height="4680"><figcaption>Students at YCCC participating in a Beta Port Project cyber security simulation</figcaption>
+</figure>
+
+<figure>
+<img src="/img/BPP_at_MCSC (1).JPG" alt="Students at MCSC" width="3248" height="2436"><figcaption>USM students participating in a Beta Port Project simulation at the MCSC lab</figcaption>
+</figure>
