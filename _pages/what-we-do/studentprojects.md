@@ -11,7 +11,7 @@ permalink: /what-we-do/student-projects
 
 <p>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in The Beta Port Project simulations. The Simutrans project involves taking the existing game and modifying it to run scenarios like weather disasters and power failures, and creating a data filter to send information to the SCADA systems. The main goal is to be able to control Simutrans from both within the game and through external requests from SCADA to monitor and fix problems that may occur, such as delivering diesel fuel through the trucking system, or sending passengers and goods through railway. The end result will allow clients to observe realistic scenarios and explore different ways to fix issues efficiently.</p>
 <figure>
-<img src="/_img/usm-shuttlebus-simulation (1).png" alt="USM Shuttlebus simulation" width="621" height="458"><figcaption>A model of USM's shuttle bus service created in Simutrans. This serves as a great way to test some of Simutrans' development features in a controlled environment based on real-world data.</figcaption>
+<img src="/img/usm-shuttlebus-simulation (1).png" alt="USM Shuttlebus simulation" width="621" height="458"><figcaption>A model of USM's shuttle bus service created in Simutrans. This serves as a great way to test some of Simutrans' development features in a controlled environment based on real-world data.</figcaption>
 </figure>
 
 <h2>Beta Port</h2>
