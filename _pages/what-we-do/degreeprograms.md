@@ -3,7 +3,8 @@ layout: 2column
 title: Degree Programs
 permalink: /what-we-do/degree-programs
 ---
-Degree Programs at USM
+<h1>Degree Programs</h1>
+<h2>Degree Programs at USM</h2>
 
 &nbsp;
 
@@ -11,7 +12,7 @@ Degree Programs at USM
 
 &nbsp;
 
-USM Department of Technology:
+<h3>USM Department of Technology:</h3>
 
 <a href="http://usm.maine.edu/tech/degrees">Degrees</a>
 
@@ -19,7 +20,7 @@ USM Department of Technology:
 
 &nbsp;
 
-USM Department of Computer Science:
+<h3>USM Department of Computer Science:</h3>
 
 <a href="http://usm.maine.edu/cos/degrees">Degrees</a>
 
@@ -27,7 +28,7 @@ USM Department of Computer Science:
 
 &nbsp;
 
-Degree Programs in the University of Maine System
+<h2>Degree Programs in the University of Maine System</h2>
 <ul>
 	<li><a href="https://go.umaine.edu/academics/majors-and-programs/">University of Maine</a>
 <ul>
@@ -58,7 +59,7 @@ Degree Programs in the University of Maine System
 </ul>
 &nbsp;
 
-Degree Programs in the Maine Community College System
+<h2>Degree Programs in the Maine Community College System</h2>
 
 &nbsp;
 <ul>
