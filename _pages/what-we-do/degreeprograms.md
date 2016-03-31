@@ -6,11 +6,8 @@ permalink: /what-we-do/degree-programs
 <h1>Degree Programs</h1>
 <h2>Degree Programs at USM</h2>
 
-&nbsp;
-
 <a href="http://usm.maine.edu/sites/default/files/tech/Cyber-Security-Degree-Information.pdf">Cyber Security Degree Information</a>
 
-&nbsp;
 
 <h3>USM Department of Technology:</h3>
 
@@ -61,7 +58,6 @@ permalink: /what-we-do/degree-programs
 
 <h2>Degree Programs in the Maine Community College System</h2>
 
-&nbsp;
 <ul>
 	<li><a href="http://www.cmcc.edu/AcademicsRegistration/PROGRAMSOFSTUDY.aspx">Central Maine CC</a>
 <ul>
