@@ -80,4 +80,6 @@ Work you've done at MCSC that you're really proud of: I'm very proud of the AIS 
 <p><strong>The best part of working at MCSC:</strong> The family like atmosphere.</p>
 <p><strong>Ways in which working at MCSC is going to make your career path easier to navigate:</strong> It's helped my problem solving skills. </p>
 
+<h2><a href="http://maine-cyber-security.github.io/what-we-do/student-projects">Student Projects &raquo;</a>
+
 
