@@ -6,7 +6,7 @@ permalink: /about/executive-board/
 
 <h1>Executive Board</h1>
 
-<strong>Chair:</strong> Mark Benton, Systems Engineering</p>
+<p><strong>Chair:</strong> Mark Benton, Systems Engineering</p>
 <p>Derek Albanese, UNUM</p>
 <p>Ray Albert, University of Maine, Fort Kent</p>
 <p>Barb Armstrong, Maine Medical Center</p>
