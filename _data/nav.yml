@@ -18,8 +18,8 @@
       subhref: "what-we-do/degree-programs/"
     - subtitle: "Student Projects"
       subhref: "what-we-do/student-projects/"
-- title: "Our Partners"
-  href: "partners/"
+#- title: "Our Partners"
+#  href: "partners/"
 - title: "News &amp; Events"
   href: "news-events/"
   # subcategories:
