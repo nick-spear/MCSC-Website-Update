@@ -7,15 +7,13 @@ permalink: /contact/
 <h1> Contact Us</h1>
 
 <h2>Mailing Address</h2>
-
-<br>Maine Cyber Security Cluster
+Maine Cyber Security Cluster
 <br>University of Southern Maine
 <br>70 Falmouth Street, 106E
 <br>Portland, ME 04104
 
 <h2>Phone Number</h2>
-
-<br>Cindy MacDonald
+Cindy MacDonald
 <br>Administrative Specialist
 <br>207-780-5785
 
