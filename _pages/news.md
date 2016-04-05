@@ -31,6 +31,7 @@ permalink: /news-events/
     {% endfor %}
     </ul>
   <h2>Annoucements</h2>
+  <ul class="post-list">
 
      {% for post in site.categories.announce %}
       <li>
