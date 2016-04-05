@@ -39,9 +39,9 @@ Louis Hychko Jr, Student, USM
 Stephen Allain, Student, YCCC
 
 <figure>
-<img src="/img/BPP_at_YCCC (1).JPG" alt="Students at YCCC" width="3456" height="4680"><figcaption>Students at YCCC participating in a Beta Port Project cyber security simulation</figcaption>
+<img src="/img/BPP_at_YCCC (1).JPG_web" alt="Students at YCCC" width="500"><figcaption>Students at YCCC participating in a Beta Port Project cyber security simulation</figcaption>
 </figure>
 
 <figure>
-<img src="/img/BPP_at_MCSC (1).JPG" alt="Students at MCSC" width="3248" height="2436"><figcaption>USM students participating in a Beta Port Project simulation at the MCSC lab</figcaption>
+<img src="/img/BPP_at_MCSC (1).JPG_web" alt="Students at MCSC" width="500"><figcaption>USM students participating in a Beta Port Project simulation at the MCSC lab</figcaption>
 </figure>
