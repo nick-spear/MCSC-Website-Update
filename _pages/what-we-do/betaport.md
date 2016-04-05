@@ -1,7 +1,7 @@
 ---
 layout: what
 title: The Beta Port Project
-permalink: /what-we-do/beta-port
+permalink: /what-we-do/beta-port/
 ---
 
 <h1>The Beta Port Project</h1>

@@ -1,7 +1,7 @@
 ---
 layout: what
 title: Student Projects
-permalink: /what-we-do/student-projects
+permalink: /what-we-do/student-projects/
 ---
 <h1> Student Projects</h1>
 

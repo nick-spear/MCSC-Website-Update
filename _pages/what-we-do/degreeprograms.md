@@ -1,7 +1,7 @@
 ---
 layout: what
 title: Degree Programs
-permalink: /what-we-do/degree-programs
+permalink: /what-we-do/degree-programs/
 ---
 <h1>Degree Programs</h1>
 <h2>Degree Programs at USM</h2>
