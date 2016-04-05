@@ -1,5 +1,5 @@
 ---
-layout: 2column
+layout: what
 title: Degree Programs
 permalink: /what-we-do/degree-programs
 ---

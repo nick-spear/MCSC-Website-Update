@@ -1,5 +1,5 @@
 ---
-layout: 2column
+layout: what
 title: What We Do
 permalink: /what-we-do/
 ---

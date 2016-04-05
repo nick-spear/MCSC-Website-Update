@@ -1,5 +1,5 @@
 ---
-layout: 2column
+layout: what
 title: Student Projects
 permalink: /what-we-do/student-projects
 ---
@@ -38,7 +38,7 @@ permalink: /what-we-do/student-projects
 
 <p>The goal of this project is to create a secure, modular, and easy to install network of sensors that will gather data from network traffic to temperature. The project will also create a suite of software for reporting, analysis, and presentation of data collected. Such a sensor system does not currently exist, and current systems, which solve part of the problem, are expensive and insecure, as well as proprietary and, therefore, difficult to extend to new areas of study. Development of this system has required research into operating systems, and software creation in C, Perl, and Python. The significance of this project lies in its relative simplicity and extensibility new areas of study. </p>
 
-<h2>Statistics Servers</h2> 
+<h2>Statistics Servers</h2>
 
 <p><strong>Students:</strong> Alex Weeman</p>
 

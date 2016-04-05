@@ -1,5 +1,5 @@
 ---
-layout: 2column
+layout: what
 title: The Beta Port Project
 permalink: /what-we-do/beta-port
 ---
