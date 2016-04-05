@@ -16,29 +16,7 @@
         <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
         <div class="footer-infobar">
           <div class="content-width">
-            <!--
-                <ul class="footer-social">
-                  <li>
-                    <a href="#"><i class="fa fa-linkedin-square"></i><div class="tooltip">LinkedIn</div></a>
-                  </li>
-                  <li>
-                    <a href="https://www.facebook.com/pages/Maine-Cyber-Security-Cluster-MCSC/558343430961394"><i class="fa fa-facebook"></i><div class="tooltip">Facebook</div></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fa fa-twitter"></i><div class="tooltip">Twitter</div></a>
-                  </li>
 
-                  <li>
-                    <a href="#"><i class="fa fa-google-plus"></i><div class="tooltip">Google+</div></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fa fa-youtube"></i><div class="tooltip">YouTube</div></a>
-                  </li>
-                  <li>
-                    <!--<a href="#"><i class="fa fa-pinterest"></i><div class="tooltip">Pinterest</div></a>
-                  </li>
-                </ul>
-              -->
           </div>
         </div>
         <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
@@ -66,15 +44,11 @@
             <div class="footer-lower-container">
 
               <ul class="footer-lower">
-
-                <li><a href="{{ site.github.url }}">Home</a></li>
-                <li><a href="{{ site.github.url }}/about/">About</a></li>
-                <li><a href="{{ site.github.url }}/research/studentres.html">Research</a></li>
-                <li><a href="{{ site.github.url }}/education">Education</a></li>
-                <li><a href="{{ site.github.url }}/news/">News</a></li>
-                <li><a href="{{ site.github.url }}/resources/">Resources</a></li>
-                <li><a href="{{ site.github.url }}/contact.html">Contact Us</a></li>
-
+              {% for dale in site.data.nav %}
+                    <li>
+                        <a href="{{ site.github.url }}/{{ dale.href }}">{{ dale.title }}</a>
+                    </li>
+               {% endfor %}
               </ul>
 
               <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
