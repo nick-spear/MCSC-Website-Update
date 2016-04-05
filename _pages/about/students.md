@@ -3,7 +3,7 @@ layout: about
 title: Students
 permalink: /about/students/
 ---
-
+<h1>Students</h1>
 <h2>Samuel Barton</h2>
 
 <p><strong>Years at USM:</strong> 3</p>
@@ -42,7 +42,7 @@ permalink: /about/students/
 <p><strong>Years at USM:</strong> 3</p>
 <p><strong>Major:</strong> Computer Science</p>
 <p><strong>Semesters at MCSC:</strong> 3</p>
-<p><strong>Projects at MCSC:</strong> Truman Show Web Traffic Simulator, Beta Port SCADA, AIS/Kismet Decoder and Plotter. 
+<p><strong>Projects at MCSC:</strong> Truman Show Web Traffic Simulator, Beta Port SCADA, AIS/Kismet Decoder and Plotter.
 Work you've done at MCSC that you're really proud of: I'm very proud of the AIS decoder program I created. AIS message's are coded signals that all ships and vessels send out. They contain information such as a vessel's name, longitude and latitude, etc. The AIS messages can be picked up with a radio antenna and then fed through my program to decode them into a human readable form and plotted onto google earth. I had to do thorough research into the protocol of AIS messages and how each part of the message is encoded in order to write this program. The end result was extremely satisfying. Being able to pick up AIS messages from ships here in Portland and then plot them on google earth with detailed information about each ship is something I think is very cool, and am very proud of.</p>
 <p><strong>The best part of working at MCSC:</strong> I think the best part of working at MCSC is being able to learn so many new things by working on real world projects. Every project I have worked on here has taught me something new and has given me invaluable experience.</p>
 <p><strong>Ways in which working at MCSC is going to make your career path easier to navigate:</strong> I think having experience working on real world projects here will be the biggest help as I continue down my career path. Working on projects in the classroom is valuable however there is nothing like actually working on a big, complex project for the real world. Being prepared with this experience for the future will be incredibly valuable.</p>

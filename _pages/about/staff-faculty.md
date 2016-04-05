@@ -4,7 +4,7 @@ title: Staff & Faculty
 permalink: /about/staff-faculty/
 ---
 
-<h1> Staff & Faculty Directory</h1>
+<h1> Staff &amp; Faculty Directory</h1>
 
 <strong><br>Dahlia Lynn, PhD</strong>
 <br>Professor, Interim Director
