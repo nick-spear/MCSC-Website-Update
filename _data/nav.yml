@@ -11,6 +11,13 @@
       subhref: "about/students/"
 - title: "What We Do"
   href: "what-we-do/"
+  subcategories:
+    - subtitle: "Beta Port"
+      subhref: "what-we-do/beta-port/"
+    - subtitle: "Degree Programs"
+      subhref: "what-we-do/degree-programs/"
+    - subtitle: "Student Projects"
+      subhref: "what-we-do/Student Projects/"
 - title: "Our Partners"
   href: "partners/"
 - title: "News &amp; Events"
