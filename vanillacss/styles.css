@@ -205,9 +205,6 @@ p {
 	margin-bottom:22px;
 	clear: both;
 }
-p:last-child {
-	margin-bottom: 0;
-}
 .hidden {
 	display: none;
 }
