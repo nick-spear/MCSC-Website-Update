@@ -4,7 +4,6 @@ title:  "Thinking Matters"
 date:   2016-04-08 01:00:00
 categories: upcoming
 ---
-<h1>Thinking Matters<h1>
 
 <strong>Date:</strong> April 22, 2016<br>
 <strong>Location:</strong> Abromsom Hall, USM
