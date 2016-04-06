@@ -20,7 +20,7 @@ Login to the UMaine System required
 	<li><a href="http://cacm.acm.org.ursus-proxy-1.ursus.maine.edu/">Communications of the ACM</a> - Magazine published by the ACM covering computer science and information technology.</li>
 	<li><a href="http://ieeexplore.ieee.org.ursus-proxy-1.ursus.maine.edu/">IEEE Security &amp; Privacy</a> - Publication covering a broad range of topics, including security practices and developments within technology.</li>
 	<li><a href="http://ieeexplore.ieee.org.ursus-proxy-1.ursus.maine.edu/">IEEE IT Professional</a> - Publication covering the latest trends in information technology.</li>
-<ul class="bullet-list">
+</ul>
 <h2>Software &amp; Tools</h2>
 <ul class="bullet-list">
 	<li>Pentesting (Simulating attacks conducted on a server for the purpose of testing for vulnerabilities)
