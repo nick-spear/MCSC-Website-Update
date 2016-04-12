@@ -205,6 +205,10 @@ p {
 	margin-bottom:22px;
 	clear: both;
 }
+img{
+	max-width:100%;
+	height:auto;
+}
 .hidden {
 	display: none;
 }
@@ -3608,3 +3612,4 @@ color:#FFFFFF;
 	padding-bottom:0.5em;
 	float:none;
 }
+
