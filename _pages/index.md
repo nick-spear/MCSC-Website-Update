@@ -1,0 +1,25 @@
+---
+layout: home
+permalink: /
+---
+
+
+
+  <h2>Latest News</h2>
+
+  <ul class="post-list">
+    {% for post in site.categories.mcscnews %}
+      <li>
+
+
+
+          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
+
+
+        <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+      </li>
+
+    {% endfor %}
+  </ul>
+  <br />
+  <p class="rss-subscribe">subscribe <a href="{{ "feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
