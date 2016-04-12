@@ -26,9 +26,8 @@ permalink: /
                 <h1> Student Projects</h1>
 
                 <h2><a href="/what-we-do/student-projects/">Simutrans</a></h2>
-                <a href="/what-we-do/student-projects/"><img src="/img/usm-shuttlebus-simulation%20(1).png" class="alignleft" width="200" alt="A model of USM's shuttle bus service created in Simutrans"></a>
                 <p><strong>Students:</strong> Storme Charette, Katrina Sabochick</p>
-
+                <a href="/what-we-do/student-projects/"><img src="/img/usm-shuttlebus-simulation%20(1).png" class="alignleft" width="200" alt="A model of USM's shuttle bus service created in Simutrans"></a>
                 <p>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in The Beta Port Project simulations. The Simutrans project involves taking the existing game and modifying it to run scenarios like weather disasters and power failures, and creating a data filter to send information to the SCADA systems.</p>
              </div>
             <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
@@ -38,12 +37,12 @@ permalink: /
                 <h2>Recent News</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.news %}
+                    {% for post in site.categories.news limit:2 %}
                       <li>
 
 
 
-                          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
+                          <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
 
 
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
@@ -54,12 +53,12 @@ permalink: /
                   <h2>Upcoming Events</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.upcoming %}
+                    {% for post in site.categories.upcoming limit:2 %}
                       <li>
 
 
 
-                          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
+                          <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
 
 
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
