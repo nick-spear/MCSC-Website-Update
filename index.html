@@ -4,22 +4,73 @@ permalink: /
 ---
 
 
+        <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+          <!-- Main Column / Sidebar -->
+          <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+          <div class="column-container">
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            <!-- Sidebar -->
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+              <div class="column-one-fourth sidebar">
+                <h2>MCSC</h2>
+                <p>The Maine Cyber Security Cluster (MCSC) is an academic and research center bringing together government, industry, and academia dedicated to workforce and economic development in the field of cyber security.</p>
 
-  <h2>Latest News</h2>
+              </div>
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            <!-- END Sidebar -->
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            <!-- Main Column -->
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+             <div class="column-one-half">
+                <h1> Student Projects</h1>
 
-  <ul class="post-list">
-    {% for post in site.categories.mcscnews %}
-      <li>
+                <h2><a href="/what-we-do/student-projects/">Simutrans</a></h2>
+                <a href="/what-we-do/student-projects/"><img src="/img/usm-shuttlebus-simulation%20(1).png" class="alignleft" width="200" alt="A model of USM's shuttle bus service created in Simutrans"></a>
+                <p><strong>Students:</strong> Storme Charette, Katrina Sabochick</p>
+
+                <p>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in The Beta Port Project simulations. The Simutrans project involves taking the existing game and modifying it to run scenarios like weather disasters and power failures, and creating a data filter to send information to the SCADA systems.</p>
+             </div>
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            <!-- END Main Column -->
+            <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+               <div class="column-one-fourth sidebar">
+                <h2>Recent News</h2>
+
+                  <ul class="post-list">
+                    {% for post in site.categories.news %}
+                      <li>
 
 
 
-          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
+                          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
 
 
-        <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
-      </li>
+                        <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+                      </li>
 
-    {% endfor %}
-  </ul>
-  <br />
-  <p class="rss-subscribe">subscribe <a href="{{ "feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+                    {% endfor %}
+                  </ul>
+                  <h2>Upcoming Events</h2>
+
+                  <ul class="post-list">
+                    {% for post in site.categories.upcoming %}
+                      <li>
+
+
+
+                          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h3>
+
+
+                        <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+                      </li>
+
+                    {% endfor %}
+                  </ul>
+              </div>
+             </div>
+          <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+          <!-- END Main Column / Sidebar -->
+          <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
