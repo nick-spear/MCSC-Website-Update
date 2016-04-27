@@ -515,7 +515,7 @@ body.home .main-content-inner {
 /* Dark Top Bar Properties */
 /* -------------------------------- */
 .topbar-outer.dark {
-	background-color: #1b222e;
+	background-color: #0f1034;
 	background-image: url(../images/topbar/30-percent-dark.png);
 }
 body.home .topbar-outer.dark {
@@ -1193,7 +1193,7 @@ body.home .topbar-outer.dark {
 /* Accent
 /* --------------------- */
 .home-cta-bar-container.accent {
-	background-color: #2c7ebe;
+	background-color: #094d89;
 	border-bottom: 0;
 	color: #ffffff;
 }
@@ -2677,11 +2677,11 @@ i {
 	float: left;
 	display: block;
 	width: 100%;
-	border-top: 6px solid #2c7ebe;
+	border-top: 6px solid #094d89;
 }
 .light-bg .footer {
 	color: rgba(255,255,255,0.6);
-	background-color: #1b222e;
+	background-color: #0f1034;
 	background-image: url(../images/dark-footer-overlay.png);
 }
 .dark-bg .footer {
@@ -2771,7 +2771,7 @@ i {
 .footer-infobar {
 	clear: both;
 	width: 100%;
-	background-color: #2c7ebe;
+	background-color: #094d89;
 	color: #ffffff;
 	font-size: 17px;
 	text-align: right;
@@ -2779,6 +2779,13 @@ i {
 	line-height: 12px;
 	padding: 12px 0 12px 0;
 	position: relative;
+}
+.footer a.usm-link {
+	color: #F7B700;
+}
+
+.footer a.usm-link:hover {
+	color: #ffebb3;
 }
 
 /* --------------------------------------------------------------------------------- */
