@@ -521,7 +521,7 @@ body.home .main-content-inner {
 /* Dark Top Bar Properties */
 /* -------------------------------- */
 .topbar-outer.dark {
-	background-color: #0f1034;
+	background-color: #0e1033;
 	background-image: url(../images/topbar/30-percent-dark.png);
 }
 body.home .topbar-outer.dark {
@@ -2687,7 +2687,7 @@ i {
 }
 .light-bg .footer {
 	color: rgba(255,255,255,0.6);
-	background-color: #0f1034;
+	background-color: #0e1033;
 	background-image: url(../images/dark-footer-overlay.png);
 }
 .dark-bg .footer {
