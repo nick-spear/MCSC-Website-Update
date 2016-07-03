@@ -321,6 +321,16 @@ img{
 .main-color {
 	color: #0e1033 !important;
 }
+.italic {
+	font-style: italic;
+}
+figure {
+	padding-top: 1em;
+	padding-bottom: 2em;
+}
+img {
+	padding-bottom: 1em;
+}
 /* -------------------------------- */
 /* Image Links
 /* -------------------------------- */
