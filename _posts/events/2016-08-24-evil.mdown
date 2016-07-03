@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Evil in the Coffee Shop: US Coast Guard Training"
+date:   2016-08-24 01:00:00
+categories: events
+---
+
+<strong>Date:</strong> August 24, 2016 - Tentative<br>
+
+<p>The Collaboratory is a virtual cyber security collaborative learning laboratory that allows students in different locations to gain practical collaborative experience in preventing and mitigating cyber attacks in real time. The next simulation will occur on April 9th, from 8am to 12pm, and on April 16th, from 8am to 1pm, at MCSC.</p>
+

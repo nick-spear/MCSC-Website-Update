@@ -2,7 +2,7 @@
 layout: post
 title:  "Thinking Matters"
 date:   2016-04-08 01:00:00
-categories: upcoming
+categories: archive
 ---
 
 <strong>Date:</strong> April 22, 2016<br>

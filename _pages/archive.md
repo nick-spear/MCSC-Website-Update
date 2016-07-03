@@ -1,10 +1,10 @@
 ---
 layout: news
 title: Archive
-permalink: /news/archive.html
+permalink: /news-events/archive.html
 category: news
 ---
-<h1>Archived News</h1>
+<h1>Archived News &amp; Events</h1>
 
 <ul class="post-list">
     {% for post in site.categories.archive %}

@@ -10,38 +10,38 @@ permalink: /what-we-do/collaboratory/
 
 <p>This project is funded by the CyberCorps National Science Foundation Award, number 1438826.</p>
 
+<figure>
+<img src="/img/BPP_at_MCSC (1)_web.jpg" alt="Students at MCSC" width="500"><figcaption>USM students participating in a Collaboratory cyber security simulation at the MCSC lab</figcaption>
+</figure>
+
 <p class="italic">“I would say perhaps the most interesting aspect of the simulations has been the degree to which this project has extended the understanding of the value of collaboration in a virtual laboratory setting to discover and address cyber security threats.  The "co-laboratory" concept has demonstrated itself to be a valuable approach to cyber security education that capitalizes on what heretofore was considered by most to be a significant impediment - namely, a highly geographically distributed student body.”</p>
 
-Raymond T. Albert, Ph.D<br>
+<p class="padding-bottom">Raymond T. Albert, Ph.D<br>
 Professor of Computer Science<br>
-University of Maine at Fort Kent<br>
+University of Maine at Fort Kent<br></p>
 
 
 <p class="italic">“In a community college, many of the students only have a vague idea on what area of computing they want to pursue. This project allowed a number of students to explore the idea of what it is like to work in Information Security in a life-like environment. Each semester, some in the group now have a better idea of what they want to do, and often it is information security.”</p>
 
-Mark Monnin, M.S.<br>
+<p class="padding-bottom">Mark Monnin, M.S.<br>
 Assistant Professor and Chair for the Computer Technology Department<br>
-York County Community College<br>
+York County Community College<br></p>
 
 
 <p class="italic">“The Beta Port Project requires us to respond in real time to unpredictable events. That type of experience can’t be simulated in the classroom.”</p>
 
-Christina Costello, Student, USM
+<p class="padding-bottom">Christina Costello, Student, USM</p>
 
 
 <p class="italic">“The Beta Port Project is a great way to fully understand how the smallest vulnerability to a system can allow access to unwanted hackers.  It also teaches us how to work as a team to eliminate the threat once it is detected.”</p>
 
-Louis Hychko Jr, Student, USM
+<p class="padding-bottom">Louis Hychko Jr, Student, USM</p>
 
 
 <p class="italic">“When everything was 'falling apart' during the simulated 'attacks' on our networks, it was good to know that there were people who were able to work on the various issues and there were resources at hand (printed materials, online, et cetera) to guide me during these crises.  Being able to work through the problem as part of a team lessened the fear and panic aspects that would have hit an individual dealing with the same issues alone.  Having been through this series of simulations, I know now that these issues happen, and can be controlled and combated with training and experience.”</p>
 
-Stephen Allain, Student, YCCC
+<p class="padding-bottom">Stephen Allain, Student, YCCC</p>
 
 <figure>
-<img src="/img/BPP_at_YCCC (1)_web.jpg" alt="Students at YCCC" width="500"><figcaption>Students at YCCC participating in a Beta Port Project cyber security simulation</figcaption>
-</figure>
-
-<figure>
-<img src="/img/BPP_at_MCSC (1)_web.jpg" alt="Students at MCSC" width="500"><figcaption>USM students participating in a Beta Port Project simulation at the MCSC lab</figcaption>
+<img src="/img/BPP_at_YCCC (1)_web.jpg" alt="Students at YCCC" width="500"><figcaption>Students at YCCC participating in a Collaboratory cyber security simulation</figcaption>
 </figure>
