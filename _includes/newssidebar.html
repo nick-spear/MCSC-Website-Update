@@ -21,7 +21,7 @@
 							<h3>Latest Posts</h3>
 							<div class="sidebar-widget search">
 								<ul class="post-list">
-    								{% for post in site.categories.news or site.categories.events %}
+    								{% for post in site.categories[news,events] %}
       									<li>
 
         									<a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{post.title }}</a>
