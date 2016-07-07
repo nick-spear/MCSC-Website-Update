@@ -17,7 +17,7 @@ permalink: /news-events/
 
     {% endfor %}
 
-    <a href="/news-events/archive/">News &amp; Events Archive</a>
+    <a href="/news-events/archive.html">News &amp; Events Archive</a>
 
   </ul>
   <h2 class="margin-top">Events</h2>
@@ -33,7 +33,7 @@ permalink: /news-events/
 
     {% endfor %}
 
-    <a href="/news-events/archive/">News &amp; Events Archive</a>
+    <a href="/news-events/archive.html">News &amp; Events Archive</a>
 
     </ul>
 
