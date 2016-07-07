@@ -6,6 +6,6 @@ categories: archive
 
 ---
 
-<p>“The Maine Cyber Security Cluster at the University of Southern Maine is fast becoming a force in the fight against malicious cyber activity … “</p>
+<p class="italic">"The Maine Cyber Security Cluster at the University of Southern Maine is fast becoming a force in the fight against malicious cyber activity ..."</p>
 
 <a href="http://bangordailynews.com/2015/08/31/business/universitys-cybersecurity-center-hopes-to-protect-maine-jobs/">Read Full Story at the Bangor Daily News</a>

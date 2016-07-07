@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "USM stepping up cyber security education"
+date:   2014-08-26 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"Data breaches are becoming increasingly common, right down to the local level. It means more students are learning to combat cyber crimes, as WMTW News 8's Katie Thompson reports. ..."</p>
+
+<p>Watch the full video at WMTW: <a href="http://www.wmtw.com/news/usm-stepping-up-cyber-security-education/27742242#!bLaVU2">USM stepping up cyber security education</a>.</p>

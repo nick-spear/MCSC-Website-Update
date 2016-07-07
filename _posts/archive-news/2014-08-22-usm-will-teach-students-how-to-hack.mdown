@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "USM will teach students how to hack, and how to stop it"
+date:   2014-08-22 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"University of Southern Maine students are preparing to infect networks with malicious software, hack into hardware, secretly monitor user activity and lure Web surfers to predatory Internet sites ..."</p>
+
+<p>Read the full Portland Press Herald article: <a href="http://www.pressherald.com/2014/08/22/usm-will-teach-students-how-to-hack-and-how-to-stop-it/">USM will teach students how to hack, and how to stop it</a>.</p>

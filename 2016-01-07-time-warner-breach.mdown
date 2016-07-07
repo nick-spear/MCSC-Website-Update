@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'MCSC Quoted in the News: "Time Warner breach exposes email passwords for up to 320,000 US customers"'
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p>MCSC's Scientific Systems Administrator, Edward Sihler, is quoted by MaineToday: <a href="http://www.centralmaine.com/2016/01/07/time-warner-reports-data-breach-password-exposure/">Time Warner breach exposes email passwords for up to 320,000 US customers</a>.</p>

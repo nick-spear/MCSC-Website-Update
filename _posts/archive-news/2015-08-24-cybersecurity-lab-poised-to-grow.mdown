@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Cybersecurity lab poised to grow: At USM, students gain real-world cyber experience"
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"The Maine Cyber Security Cluster at the University of Southern Maine is fast becoming a force in the fight against malicious cyber activity ..."</p>
+
+<p>Read the full Mainebiz article: <a href="http://www.mainebiz.biz/article/20140827/NEWS0101/140829960">Cybersecurity lab poised to grow: At USM, students gain real-world cyber experience</a>.</p>

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'MCSC Quoted in the News: "Maine Senators: Massive Data Breach Highlights Cyber-Security Weaknesses"'
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p>MCSC's Scientific Systems Administrator, Edward Sihler, is quoted on MPBN: <a href="http://news.mpbn.net/post/maine-senators-massive-data-breach-highlights-cyber-security-weaknesses#stream/0">Maine Senators: Massive Data Breach Highlights Cyber-Security Weaknesses</a>.</p>

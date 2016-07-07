@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Maine Cyber Security Cluster opens"
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"The Maine Cyber Security Cluster is creating a shared and secured R&amp;D/commercialization "scratch lab" and testbed for new products and services, addressing the skills shortage in Cyber Security, and promoting the Cluster as the national hub for cyber security solutions and workforce development ..."</p>
+
+<p>Read the full Tech Maine article: <a href="http://www.techmaine.com/groups/maine-cyber-security-cluster">Maine Cyber Security Cluster</a>.</p>

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'MCSC Quoted in the News: "Swatting presents real challenges for law enforcement"'
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p>MCSC's Scientific Systems Administrator, Edward Sihler, is quoted on WCSH6 Portland: <a href="http://legacy.wcsh6.com/story/news/local/2015/07/09/swatting-fake-emergency-calls-police/29929965/">Swatting presents real challenges for law enforcement</a>.</p>

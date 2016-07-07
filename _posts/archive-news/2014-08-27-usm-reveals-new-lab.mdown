@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "USM reveals new lab to boost cybersecurity field"
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"The University of Southern Maine on Tuesday unveiled a new computer lab that seeks to boost training efforts for the cybersecurity industry and launch a wider, statewide hub ..."</p>
+
+<p>Read the full Mainebiz article: <a href="http://www.mainebiz.biz/article/20140827/NEWS0101/140829960">USM reveals new lab to boost cybersecurity field</a>.</p>

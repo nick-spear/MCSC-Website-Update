@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'MCSC Quoted in the News: "Hit by data breach, Anthem warns Mainers to watch for identity theft"'
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p>MCSC's Scientific Systems Administrator, Edward Sihler, is quoted in the Portland Press Herald: <a href="http://www.pressherald.com/2015/02/05/after-anthem-data-breach-mainers-urged-to-be-on-guard/">Hit by data breach, Anthem warns Mainers to watch for identity theft</a>.</p>

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Students Study a Rampant Virus at University Cybersecurity Lab"
+date:   2014-10-22 01:00:00
+categories: archive
+
+---
+
+<p class="italic">"The new Maine facility provides a closed network for finding defenses against cyberattacks ..."</p>
+
+<p>Read the full EdTech article: <a href="http://www.edtechmagazine.com/higher/article/2014/09/students-study-rampant-virus-university-cybersecurity-lab">Students Study a Rampant Virus at University Cybersecurity Lab</a>.</p>
