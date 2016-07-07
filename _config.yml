@@ -1,6 +1,6 @@
 # Site settings
 title: MCSC
-email: admin@shinesandjecker.com
+email: mcsc@maine.edu
 description: > # this means to ignore newlines until "baseurl:"
   The Maine Cyber Security Cluster (MCSC) is an academic and research center bringing together government, industry, and academia dedicated to workforce and economic development in the field of cyber security.
 # baseurl: "/MCSC/" # the subpath of your site, e.g. /blog/
