@@ -24,11 +24,15 @@ permalink: /
             <!-- Main Column -->
             <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
              <div class="column-one-half">
-                <h1> Student Projects</h1>
-
+                <h1>Featured Student Projects</h1>
+                <a href="/what-we-do/student-projects/">View all student projects</a>
+                <p></p>
+                <h2><a href="/what-we-do/student-projects/">Beta Port</a></h2>
+                <p><strong>Students:</strong> Samuel Barton, Christina Costello, Zachary Landry, Alex Weeman</p>
+                <p><a href="/what-we-do/student-projects/"><img src="/img/BPP_at_MCSC (1)_web.jpg" alt="Students at MCSC" width="500"></a>Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. Students architected the Beta Port infrastructure used in the Collaboratory cyber security simulation pictured above.</p>
                 <h2><a href="/what-we-do/student-projects/">Simutrans</a></h2>
                 <p><strong>Students:</strong> Storme Charette, Katrina Sabochick</p>
-                <p><a href="/what-we-do/student-projects/"><img src="/img/usm-shuttlebus-simulation%20(1).png" width="500" alt="A model of USM's shuttle bus service created in Simutrans"></a>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in the Collaboratory cyber security simulations. The Simutrans project involves taking the existing game and modifying it to run scenarios like weather disasters and power failures, and creating a data filter to send information to the SCADA systems.</p>
+                <p><a href="/what-we-do/student-projects/"><img src="/img/usm-shuttlebus-simulation%20(1).png" width="500" alt="A model of USM's shuttle bus service created in Simutrans"></a>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in the Collaboratory cyber security simulations.</p>
              </div>
             <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
             <!-- END Main Column -->
@@ -39,33 +43,34 @@ permalink: /
                   <ul class="post-list">
                     {% for post in site.categories.news limit:3 %}
                       <li>
-
-
-
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
-
-
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
                       </li>
-
                     {% endfor %}
                   </ul>
+
                   <h2>Upcoming Events</h2>
 
                   <ul class="post-list">
                     {% for post in site.categories.events limit:3 %}
                       <li>
-
-
-
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
-
-
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
                       </li>
-
                     {% endfor %}
                   </ul>
+
+                  <h2>Past Events</h2>
+
+                  <ul class="post-list">
+                    {% for post in site.categories.archive limit:4 %}
+                      <li>
+                          <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
+                        <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
+                      </li>
+                    {% endfor %}
+                  </ul>
+
               </div>
              </div>
           <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
