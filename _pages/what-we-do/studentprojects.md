@@ -3,7 +3,7 @@ layout: what
 title: Student Projects
 permalink: /what-we-do/student-projects/
 ---
-<h1> Student Projects</h1>
+<h1>Student Projects</h1>
 
 <h2>Simutrans</h2>
 
@@ -32,6 +32,14 @@ permalink: /what-we-do/student-projects/
 
 <p>This project aims to encode data and exfiltrate it through the Linux ping command. The goal is to make detection increasingly subtle.</p>
 
+<h2>Truman Show</h2>
+
+<p><strong>Students:</strong> Caroline Whitman</p>
+
+<p>The Truman Show deals with web traffic monitoring. It simulates people surfing the web using a web crawler to go through websites, click links, create accounts, and make mistakes along the way. At the end, it can be seen where each of these "people" went and how fast they went there.</p>
+
+<h1>Past Student Projects</h1>
+
 <h2>The Sensor Project </h2>
 
 <p><strong>Students:</strong> Samuel Barton</p>
@@ -43,9 +51,3 @@ permalink: /what-we-do/student-projects/
 <p><strong>Students:</strong> Alex Weeman</p>
 
 <p>Using discarded servers–ones that would otherwise be scrapped–and refurbishing them, this project aims to restore them for use with statistics software. This work involves implementation of an Ubuntu operating system and installation of R statistical software.</p>
-
-<h2>Truman Show</h2>
-
-<p><strong>Students:</strong> Caroline Whitman</p>
-
-<p>The Truman Show deals with web traffic monitoring. It simulates people surfing the web using a web crawler to go through websites, click links, create accounts, and make mistakes along the way. At the end, it can be seen where each of these "people" went and how fast they went there.</p>
