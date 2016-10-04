@@ -1,10 +1,38 @@
 ---
 layout: what
-title: The Collaboratory Project
-permalink: /what-we-do/collaboratory/
+title: Funded Research
+permalink: /what-we-do/funded-research/
 ---
 
-<h1>The Collaboratory Project</h1>
+<h1>Funded Research</h1>
+
+Jump to:
+<ul>
+  <li>
+  <a href="#betaport">Beta Port</a>
+  </li>
+  <li>
+  <a href="#collaboratory">The Collaboratory Project</a>
+  </li>
+</ul>
+
+<p></p>
+
+<a name="betaport" class="anchor"></a>
+<h2>Beta Port</h2>
+
+<p>Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more.</p>
+
+<figure>
+<img src="/img/whiteboard1.jpg" alt="Beta Port whiteboarding" width="500"><figcaption>Beta Port whiteboarding</figcaption>
+</figure>
+
+<figure>
+<img src="/img/whiteboard3.jpg" alt="Beta Port sketching" width="500"><figcaption>Beta Port sketching</figcaption>
+</figure>
+
+<a name="collaboratory" class="anchor"></a>
+<h2>The Collaboratory Project</h2>
 
 <p>The University of Southern Maine, University of Maine at Fort Kent, and York County Community College are directing a Virtual Cybersecurity Collaborative Learning Laboratory project. The Collaboratory is an educational environment that allows students to gain practical experience in preventing and mitigating cyber attacks in real time. During simulations, students are assigned roles as IT professionals at companies in the fictional city of Beta Port, a virtual environment built and maintained by students for these security exercises. Students are then challenged by a variety of cyber security issues, working together to detect and stop security breaches and restore systems.</p>
 

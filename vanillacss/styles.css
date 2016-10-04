@@ -343,6 +343,12 @@ img {
 .margin-bottom {
 	margin-bottom: 1rem;
 }
+.anchor {
+	display: block;
+	position: relative;
+	top: -130px;
+	visibility: hidden;
+}
 /* -------------------------------- */
 /* Image Links
 /* -------------------------------- */

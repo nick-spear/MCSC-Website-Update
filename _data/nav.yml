@@ -12,10 +12,8 @@
 - title: "What We Do"
   href: "what-we-do/"
   subcategories:
-    - subtitle: "Beta Port"
-      subhref: "what-we-do/beta-port/"
-    - subtitle: "Collaboratory"
-      subhref: "what-we-do/collaboratory/"
+    - subtitle: "Funded Research"
+      subhref: "what-we-do/funded-research/"
     - subtitle: "Student Projects"
       subhref: "what-we-do/student-projects/"
     - subtitle: "Degree Programs"
