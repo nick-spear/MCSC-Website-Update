@@ -27,7 +27,6 @@
   #     subhref: "news/"
   #   - subtitle: "Archive"
   #     subhref: "news/archive.html"
-
 - title: "Resources"
   href: "resources/"
 - title: "Contact Us"
