@@ -5,6 +5,8 @@ permalink: /what-we-do/degree-programs/
 ---
 <h1>Degree Programs</h1>
 
+<p>Visit <a target='_blank' href='http://cybersecurity.maine.edu/'>Bachelor of Science in Cybersecurity</a> to learn more about the University of Maine System's shared degree program. The program, in conjunction with MCSC, has been recognized by the NSA as a distributed Center of Academic Excellence in Cybersecuriy Education and Cyber Defense.
+
 <h2>Degree Programs at USM</h2>
 
 <h3>USM Department of Technology:</h3>
