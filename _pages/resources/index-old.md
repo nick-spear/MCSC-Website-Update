@@ -24,16 +24,17 @@ Login to the UMaine System required
 <h2>Software &amp; Tools</h2>
 <ul class="bullet-list">
 	<li>Pentesting (Simulating attacks conducted on a server for the purpose of testing for vulnerabilities)
-<ul>
-	<li><a href="https://www.backbox.org/">BackBox</a> - A free, open source community project with the aim to promote the culture of security in IT environment and give its contribution to make it better and safer.</li>
-	<li><a href="https://www.kali.org/">Kali Linux</a> - A debian-based linux distribution designed specifically for conducting penetration testing. It can be run off a usb or cd or installed directly on the hard drive.</li>
-</ul>
-</li>
+	<ul class="bullet-list">
+		<li><a href="https://www.backbox.org/">BackBox</a> - A free, open source community project with the aim to promote the culture of security in IT environment and give its contribution to make it better and safer.</li>
+		<li><a href="https://www.kali.org/">Kali Linux</a> - A debian-based linux distribution designed specifically for conducting penetration testing. It can be run off a usb or cd or installed directly on the hard drive.</li>
+		</ul>
+	</ul>
+	</li>
 	<li>Network Monitoring
-<ul class="bullet-list">
-	<li><a href="https://www.nagios.org/">Nagios</a> - A tool for monitoring your network for infrastructural problems.  It comes in several versions.</li>
-	<li><a href="https://security-onion-solutions.github.io/security-onion/">Security Onion</a> - A linux distribution designed to help you monitor and protect your network.  It comes with IDS, log management software, and can be customized to fit your needs.</li>
-</ul>
+	<ul class="bullet-list">
+		<li><a href="https://www.nagios.org/">Nagios</a> - A tool for monitoring your network for infrastructural problems.  It comes in several versions.</li>
+		<li><a href="https://security-onion-solutions.github.io/security-onion/">Security Onion</a> - A linux distribution designed to help you monitor and protect your network.  It comes with IDS, log management software, and can be customized to fit your needs.</li>
+	</ul>
 </li>
 </ul>
 <h2>U.S. Government</h2>

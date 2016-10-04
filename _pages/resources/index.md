@@ -24,8 +24,15 @@ permalink: /resources/
         <li><a href="http://ieeexplore.ieee.org.ursus-proxy-1.ursus.maine.edu/">IEEE Security &amp; Privacy</a> - Publication covering a broad range of topics, including security practices and developments within technology.</li>
         <li><a href="http://ieeexplore.ieee.org.ursus-proxy-1.ursus.maine.edu/">IEEE IT Professional</a> - Publication covering the latest trends in information technology.</li>
       </ul>
-    </div>
+      <h3>Publicly Available</h3>
+      <ul class="bullet-list">
+        <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
+        <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
+      </ul>
 
+    </div>  <!-- end div.resources-accordion-content -->
   </li>
 
 <!-- COMMUNITY -->
@@ -42,8 +49,8 @@ permalink: /resources/
         <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
-    </div>
 
+    </div>  <!-- end div.resources-accordion-content -->
   </li>
 
 <!-- GOVERNMENT -->
@@ -64,8 +71,15 @@ permalink: /resources/
         <li><a href="https://nvd.nist.gov/">National Vulnerability Database</a></li>
         <li><a href="https://www.us-cert.gov/">U.S. Computer Emergency Readiness Team (US-CERT)</a></li>
       </ul>
+    <h3>Publicly Available</h3>
+      <ul class="bullet-list">
+        <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
+        <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
+      </ul>
 
-    </div>
+    </div>  <!-- end div.resources-accordion-content -->
   </li>
 
 <!-- BUSINESS -->
@@ -75,6 +89,23 @@ permalink: /resources/
     <h2>For Business</h2>
     <div class="resources-accordion-content">
 
+    <h3>Software &amp; Tools</h3>
+    <ul class="bullet-list">
+      <li>Pentesting (Simulating attacks conducted on a server for the purpose of testing for vulnerabilities)
+      <ul class="bullet-list">
+        <li><a href="https://www.backbox.org/">BackBox</a> - A free, open source community project with the aim to promote the culture of security in IT environment and give its contribution to make it better and safer.</li>
+        <li><a href="https://www.kali.org/">Kali Linux</a> - A debian-based linux distribution designed specifically for conducting penetration testing. It can be run off a usb or cd or installed directly on the hard drive.</li>
+        </ul>
+      </ul>
+      </li>
+      <li>Network Monitoring
+      <ul class="bullet-list">
+        <li><a href="https://www.nagios.org/">Nagios</a> - A tool for monitoring your network for infrastructural problems.  It comes in several versions.</li>
+        <li><a href="https://security-onion-solutions.github.io/security-onion/">Security Onion</a> - A linux distribution designed to help you monitor and protect your network.  It comes with IDS, log management software, and can be customized to fit your needs.</li>
+      </ul>
+    </li>
+    </ul>
+
     <h3>Publicly Available</h3>
       <ul class="bullet-list">
         <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
@@ -83,7 +114,7 @@ permalink: /resources/
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
 
-    </div>
+    </div>  <!-- end div.resources-accordion-content -->
   </li>
 
 </ul>
