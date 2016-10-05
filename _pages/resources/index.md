@@ -28,7 +28,7 @@ permalink: /resources/
       <ul class="bullet-list">
         <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
         <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
-        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Publications</a></li>
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
 
@@ -46,7 +46,7 @@ permalink: /resources/
       <ul class="bullet-list">
         <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
         <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
-        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Publications</a></li>
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
 
@@ -75,7 +75,7 @@ permalink: /resources/
       <ul class="bullet-list">
         <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
         <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
-        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Publications</a></li>
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
 
@@ -109,7 +109,7 @@ permalink: /resources/
       <ul class="bullet-list">
         <li><a href="http://www.sigcas.org/">ACM Special Interest Group on Computers and Society (SIGCAS)</a></li>
         <li><a href="http://www.sigsac.org/">ACM Special Interest Group on Security, Audit and Control (SIGSAC)</a></li>
-        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEE Publications</a></li>
+        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Publications</a></li>
         <li><a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">World's Biggest Data Breaches and Hacks</a></li>
       </ul>
 
