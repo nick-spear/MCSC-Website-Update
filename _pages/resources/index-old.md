@@ -27,7 +27,6 @@ Login to the UMaine System required
 	<ul class="bullet-list">
 		<li><a href="https://www.backbox.org/">BackBox</a> - A free, open source community project with the aim to promote the culture of security in IT environment and give its contribution to make it better and safer.</li>
 		<li><a href="https://www.kali.org/">Kali Linux</a> - A debian-based linux distribution designed specifically for conducting penetration testing. It can be run off a usb or cd or installed directly on the hard drive.</li>
-		</ul>
 	</ul>
 	</li>
 	<li>Network Monitoring
