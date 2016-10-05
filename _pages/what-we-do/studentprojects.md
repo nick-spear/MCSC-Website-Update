@@ -26,12 +26,6 @@ permalink: /what-we-do/student-projects/
 
 <p>This project is about detecting and mapping vulnerable networks with low or no encryption. This includes "war driving" around town with a wifi antenna listening for networks, and writing the details of any networks it finds to an xml file. This file is then parsed so that the networks can be displayed on Google Maps. A particular focus of this project is ships and their AIS messages, data that all ships send out that includes details about its longitude and latitude, name, dimensions, etc. These messages can be picked up using a radio antenna and this data can be used to determine whether any of the detected vulnerable networks belong to particular ships. A program needed to be written to decode these messages and a way has also been devised to map vulnerable networks to nearby businesses using the Google Places API.</p>
 
-<h2>Data Exfiltration</h2>
-
-<p><strong>Students:</strong> Adam Wirth</p>
-
-<p>This project aims to encode data and exfiltrate it through the Linux ping command. The goal is to make detection increasingly subtle.</p>
-
 <h2>Truman Show</h2>
 
 <p><strong>Students:</strong> Caroline Whitman</p>
@@ -51,3 +45,10 @@ permalink: /what-we-do/student-projects/
 <p><strong>Students:</strong> Alex Weeman</p>
 
 <p>Using discarded servers–ones that would otherwise be scrapped–and refurbishing them, this project aims to restore them for use with statistics software. This work involves implementation of an Ubuntu operating system and installation of R statistical software.</p>
+
+<h2>Data Exfiltration</h2>
+
+<p><strong>Students:</strong> Adam Wirth</p>
+
+<p>This project aims to encode data and exfiltrate it through the Linux ping command. The goal is to make detection increasingly subtle.</p>
+
