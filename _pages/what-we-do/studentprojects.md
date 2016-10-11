@@ -22,9 +22,16 @@ permalink: /what-we-do/student-projects/
 
 <h2>Vulnerability Assessment</h2>
 
-<p><strong>Students:</strong> Tyler LaBerge</p>
+<p><strong>Students:</strong> Vincent Orlando, Tyler LaBerge</p>
 
 <p>This project is about detecting and mapping vulnerable networks with low or no encryption. This includes "war driving" around town with a wifi antenna listening for networks, and writing the details of any networks it finds to an xml file. This file is then parsed so that the networks can be displayed on Google Maps. A particular focus of this project is ships and their AIS messages, data that all ships send out that includes details about its longitude and latitude, name, dimensions, etc. These messages can be picked up using a radio antenna and this data can be used to determine whether any of the detected vulnerable networks belong to particular ships. A program needed to be written to decode these messages and a way has also been devised to map vulnerable networks to nearby businesses using the Google Places API.</p>
+<p>The assessment and mapping tool has now moved out of the lab and is
+being used to search for signals and map the results. Efforts are now
+underway to reduce the size and improve the usability.</p>
+
+<figure>
+<img src="/img/vulnerability-assessment.jpg" alt="Vulnerability Assessment participants" width="500"><figcaption>Vincent Orlando (student), Edward Sihler (instructor), Tyler LeBerge (student), and Andy Germann (US Coast Guard) participating in the Vulnerability Assessment project</figcaption>
+</figure>
 
 <h2>Truman Show</h2>
 
