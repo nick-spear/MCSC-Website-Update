@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MCSC Welcomes Dr. Raymond Albert as its New Director"
-date:   2016-10-12 01:00:00
+date:   2016-10-12 24:00:00
 categories: news
 ---
 
