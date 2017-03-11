@@ -28,9 +28,9 @@ permalink: /about/students/
 
 <h2>Christina Costello</h2>
 
-<p><strong>Years at USM:</strong> 1</p>
+<p><strong>Years at USM:</strong> 2</p>
 <p><strong>Major:</strong> Computer Science</p>
-<p><strong>Semesters at MCSC:</strong> 2</p>
+<p><strong>Semesters at MCSC:</strong> 3</p>
 <p><strong>Projects at MCSC:</strong> Beta Port, MCSC’s Website</p>
 <p><strong>Work you've done at MCSC that you're really proud of:</strong> Building a website with Django, writing a Python web spider, and building a website with AngularJS.</p>
 <p><strong>The best part of working at MCSC:</strong> The flexibility I’m afforded to work on what interests me.</p>

@@ -20,6 +20,20 @@ permalink: /what-we-do/student-projects/
 
 <p>Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more. </p>
 
+<h2>Range in a Box</h2>
+
+<p><strong>Students:</strong> Louis Hychko, Ryan Ignaciuk, Danielle Ilsley</p>
+
+<p>Students have developed a prototype portable cyber range (fits in a few boxes none weighing more than 60lbs) that simulates a small to medium sized organization with email, web, and file servers, along with security cameras, badge systems, and some specialized equipment found in ports.   The primary use is for an organization to test their cyber response not just within the IT department but also the wider organization.  The initial usage has been successful and now improvements to the badge and cam systems must be implemented. This is a long term project that will
+involve many updates to create modules so that it will work for the widest possible range of organizations and will allow repreated usage without replaying the same event.  Credit should also be given to the entire lab as all members pulled together to make this a success.</p>
+
+<h2>Cyber Blib</h2>
+
+<p><strong>Students:</strong> Tyler LaBerge, Caroline Whitman</p>
+
+<p>This project goal is to create a near real time visualization of active cyber attacks within Maine.  Currently it is used within a closed environment only as we are testing the evaluation and display of attracts the next stage will be to integrate results from system logs
+followed by creation of honey pots.</p>
+
 <h2>Vulnerability Assessment</h2>
 
 <p><strong>Students:</strong> Tyler LaBerge, Vincent Orlando</p>
