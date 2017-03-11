@@ -108,5 +108,7 @@ permalink: /resources/
       </div>  <!-- end div.resources-accordion-content -->
     </li>
 
+    <span class='see-all'>See All</span>
+
   </ul>
 </div>

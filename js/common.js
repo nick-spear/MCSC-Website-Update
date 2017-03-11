@@ -181,6 +181,20 @@ $(document).ready(function() {
 			$(this).next('.resources-accordion-content').slideUp(100, 'linear');
 			$(this).removeClass('accordion-open');
 		}
+	});
+
+	$('.see-all').on('click', function() {
+		if (!$(this).hasClass('all-open')) {  // open everything
+			$(this).addClass('all-open');
+			$('.resources-accordion-wrapper h2').next('.resources-accordion-content').slideDown(200, 'linear');
+			$('.resources-accordion-wrapper h2').addClass('accordion-open');
+			$(this).text('Close All');
+		} else {  // close everything
+			$(this).removeClass('all-open');
+			$('.resources-accordion-wrapper h2').next('.resources-accordion-content').slideUp(200, 'linear');
+			$('.resources-accordion-wrapper h2').removeClass('accordion-open');
+			$(this).text('See All');
+		}
 
 	});
 
