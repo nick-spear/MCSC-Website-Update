@@ -2,7 +2,7 @@
 layout: post
 title:  "Project>Login on Campus at USM"
 date:   2016-10-27 24:00:00
-categories: events
+categories: archive
 ---
 <p>
 <strong>Date:</strong> October 27, 2016, 4-6pm<br>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Student Samuel Barton Presents at Thinking Matters"
-date:   2016-04-22 01:00:00
-categories: news
+date:   2016-04-22 24:00:00
+categories: archive
 ---
 
 <p>On April 22nd, 2016, MCSC Student Samuel Barton presented at USM's annual student research symposium, Thinking Matters.</p>

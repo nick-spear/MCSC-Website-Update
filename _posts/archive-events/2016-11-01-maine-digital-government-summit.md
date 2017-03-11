@@ -2,7 +2,7 @@
 layout: post
 title:  "Maine Digital Government Summit"
 date:   2016-11-01 24:00:00
-categories: events
+categories: archive
 ---
 <p>
 <strong>Date:</strong> November 1, 2016<br>

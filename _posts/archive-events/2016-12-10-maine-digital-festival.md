@@ -2,7 +2,7 @@
 layout: post
 title:  "Maine Digital Festival"
 date:   2016-12-10 24:00:00
-categories: events
+categories: archive
 ---
 <p>
 <strong>Date:</strong> December 10, 2016, 10am–1:30pm<br>

@@ -47,7 +47,7 @@ permalink: /
                 <h2>Recent News</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.news limit:4 %}
+                    {% for post in site.categories.news limit:10 %}
                       <li>
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
@@ -58,7 +58,7 @@ permalink: /
                   <h2>Upcoming Events</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.events limit:4 %}
+                    {% for post in site.categories.events limit:10 %}
                       <li>
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
@@ -69,7 +69,7 @@ permalink: /
                   <h2>Past Events</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.archive limit:4 %}
+                    {% for post in site.categories.archive limit:5 %}
                       <li>
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>

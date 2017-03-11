@@ -6,11 +6,11 @@ permalink: /about/staff-faculty/
 
 <h1> Staff &amp; Faculty Directory</h1>
 
-<strong><br>Dahlia Lynn, PhD</strong>
-<br>Professor, Interim Director
-<br><a href="dahlia.lynn@maine.edu">dahlia.lynn@maine.edu</a>
-<br>207-780-5633 – Portland
-<br>207-780-4544 – Gorham
+<p><strong><br />Raymond Albert, PhD</strong>
+<br />Director MCSC
+<br />Professor of Computer Science
+<br /><a href="mailto:ralbert@maine.edu">ralbert@maine.edu</a>
+<br />207-780-5646</p>
 
 <strong><br>Lynn Lovewell</strong>
 <br>Director of Operations

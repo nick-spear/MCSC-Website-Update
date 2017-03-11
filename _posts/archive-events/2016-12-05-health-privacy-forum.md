@@ -2,7 +2,7 @@
 layout: post
 title:  "Edward Sihler to Speak at Healthcare Privacy & Security Forum"
 date:   2016-12-05 24:00:00
-categories: events
+categories: archive
 ---
 <p>
 <strong>Date:</strong> December 5-7, 2016<br>

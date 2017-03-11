@@ -2,7 +2,7 @@
 layout: post
 title:  "October is Cyber Security Awareness Month"
 date:   2016-10-01 24:00:00
-categories: news
+categories: archive
 ---
 
 <p>From the National Institute of Standards and Technology (NIST):</p>
