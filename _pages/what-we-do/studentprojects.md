@@ -1,32 +1,41 @@
 ---
-layout: what
+layout: student-project
 title: Student Projects
 permalink: /what-we-do/student-projects/
 ---
 <h1>Student Projects</h1>
 
-<h2>Simutrans</h2>
-
-<p><strong>Students:</strong> Storme Charette, Katrina Sabochick</p>
-
-<p>Simutrans is an open-source transportation game similar to SimCity. It’s being used to create a real-time replica of Beta Port, the fictional city used in The Beta Port Project simulations. The Simutrans project involves taking the existing game and modifying it to run scenarios like weather disasters and power failures, and creating a data filter to send information to the SCADA systems. The main goal is to be able to control Simutrans from both within the game and through external requests from SCADA to monitor and fix problems that may occur, such as delivering diesel fuel through the trucking system, or sending passengers and goods through railway. The end result will allow clients to observe realistic scenarios and explore different ways to fix issues efficiently.</p>
-<figure>
-<img src="/img/usm-shuttlebus-simulation (1).png" alt="USM Shuttlebus simulation" width="500"><figcaption>A model of USM's shuttle bus service created in Simutrans. This serves as a great way to test some of Simutrans' development features in a controlled environment based on real-world data.</figcaption>
-</figure>
-
 <h2>Beta Port</h2>
 
-<p><strong>Students:</strong> Samuel Barton, Christina Costello, Zachary Landry, Alex Weeman</p>
+<p>
+Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more. 
+<br><a href="{{ site.github.url }}/what-we-do/student-projects/Betaport/">See more...</a>
+</p>
 
-<p>Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more. </p>
+<h2>Digital Barbarians</h2>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget mi proin sed libero enim sed faucibus turpis in. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Commodo viverra maecenas accumsan lacus. Volutpat odio facilisis mauris sit amet. Turpis cursus in hac habitasse platea dictumst quisque. Et odio pellentesque diam volutpat commodo sed egestas. Sodales ut etiam sit amet nisl purus. Auctor elit sed vulputate mi sit. Semper eget duis at tellus at urna. Est placerat in egestas erat. Suspendisse ultrices gravida dictum fusce ut. Sem fringilla ut morbi tincidunt augue. At ultrices mi tempus imperdiet nulla. Massa tincidunt nunc pulvinar sapien et ligula.
+<br><a href="{{ site.github.url }}/what-we-do/student-projects/Digital-Barbarians/">See more...</a>
+</p>
+
+<h2>METI</h2>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br><a href="{{ site.github.url }}/what-we-do/student-projects/METI/">See more...</a>
+</p>
 
 <h2>Range in a Box</h2>
 
-<p><strong>Students:</strong> Louis Hychko, Ryan Ignaciuk, Danielle Ilsley</p>
+<p>
+Students have developed a prototype portable cyber range (fits in a few boxes none weighing more than 60lbs) that simulates a small to medium sized organization with email, web, and file servers, along with security cameras, badge systems, and some specialized equipment found in ports.   The primary use is for an organization to test their cyber response not just within the IT department but also the wider organization.  The initial usage has been successful and now improvements to the badge and cam systems must be implemented. This is a long term project that will
+involve many updates to create modules so that it will work for the widest possible range of organizations and will allow repreated usage without replaying the same event.  Credit should also be given to the entire lab as all members pulled together to make this a success.
+<br><a href="{{ site.github.url }}/what-we-do/student-projects/Range-in-a-Box/">See more...</a>
+</p>
 
-<p>Students have developed a prototype portable cyber range (fits in a few boxes none weighing more than 60lbs) that simulates a small to medium sized organization with email, web, and file servers, along with security cameras, badge systems, and some specialized equipment found in ports.   The primary use is for an organization to test their cyber response not just within the IT department but also the wider organization.  The initial usage has been successful and now improvements to the badge and cam systems must be implemented. This is a long term project that will
-involve many updates to create modules so that it will work for the widest possible range of organizations and will allow repreated usage without replaying the same event.  Credit should also be given to the entire lab as all members pulled together to make this a success.</p>
 
+<!--
 <h2>Cyber Blib</h2>
 
 <p><strong>Students:</strong> Tyler LaBerge, Caroline Whitman</p>
@@ -72,4 +81,4 @@ underway to reduce the size and improve the usability.</p>
 <p><strong>Students:</strong> Adam Wirth</p>
 
 <p>This project aims to encode data and exfiltrate it through the Linux ping command. The goal is to make detection increasingly subtle.</p>
-
+-->

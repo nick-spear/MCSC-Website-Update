@@ -14,3 +14,4 @@ relative_permalinks: false
 paginate_path: '/blog/page:num/'
 include: ['_pages']
 future: true
+exclude: [vendor]

@@ -1818,9 +1818,48 @@ ul.topsocial .tooltip:after {
 	width: 709px;
 	margin-right: 44px;
 }
+
+.student {
+    margin-bottom: 18px;
+}
+.student div {
+    position: absolute;
+    display: inline;
+    margin-left: 15px;
+}
+.student div h2 {
+    margin-bottom: 0px;
+}
+.student div p {
+    margin-bottom: 10px;
+}
+.student .student-about {
+    width: 530px;
+}
+
+.student-noimg {
+    margin-bottom: 40px;
+}
+.student-noimg h2 {
+    margin-bottom: 0px;
+}
+.student-noimg p {
+    margin-bottom: 5px;
+}
+
+.student-about {
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #333;
+}
+.student .student-about {
+    overflow: auto;
+    max-height: 135px;
+}
 .column-one-half, .column-one-third, .column-one-fourth, .column-one-fifth, .column-three-qtr {
 	margin-bottom: 24px;
-	float: left;
+    float: left;
 	display: inline-block;
 }
 .column-container.grid {
