@@ -12,17 +12,19 @@ permalink: /what-we-do/student-projects/METI/
 </p>
 
 <p>
-METI (Metropolitan Event Training Interface) is an interactive map of a city. It’s purpose is to simulate real-world events such as natural disasters, accidents, power outages, and malicious attacks. These simulations are then used to help train users in emergency response, and how to recognize the signs of potential attacks on everything from the power grid to the sewage system.
+METI (Metropolitan Event Training Interface) is an interactive map of a city. It’s purpose is to simulate real-world events such as natural disasters, accidents, power outages, and malicious attacks. These simulations are then used to help train users in emergency response, and how to recognize the signs of potential attacks on everything from the power grid to the sewage.
 </p>
 
 <p>
-In the beginning, METI was to be used as a visual interpreter of <a href="{{ site.github.url }}/what-we-do/student-projects/Betaport/">Betaport</a>, which is the MCSC virtual town used for cyber security training. As it developed, we realized the greater potential of the tool and instead began to expand, with the idea that it could be used as a stand-alone application for any virtual environment.
+In the beginning, METI was to be used as a visual interpreter of
+<a href="{{ site.github.url }}/what-we-do/student-projects/Betaport/">Betaport</a>
+, which is the MCSC virtual town used for cyber security training. As it developed, we realized the greater potential of the tool and instead began to expand, with the idea that it could be used as a stand-alone application for any virtual environment.
 </p>
 
 <figure>
-<img src="http://pad1.whstatic.com/images/thumb/7/7f/Draw-a-Logo-in-Microsoft-Paint-Step-3.jpg/aid1359526-v4-728px-Draw-a-Logo-in-Microsoft-Paint-Step-3.jpg" alt="METI City Editor Screenshot" width="500" style="display:block;margin:0 auto;">
+<img src="../../../img/METI-Screenshot1.png" width="500" style="display:block;margin:auto;">
 <figcaption style="text-align:center">
-The METI City Editor, currently under development.
+METI's map view of a loaded city with an integrated command line open.
 </figcaption>
 </figure>
 
@@ -31,7 +33,7 @@ The progress that our team has made since METI began has been extraordinary. Sta
 </p>
 
 <p>
-Right now, METI remains unconnected to Betaport or any existing virtual environment. Our next steps will be to continue improving the interface on the front end, and to fully implement the simulation engine, thus enabling us to host METI on...
+Right now, METI remains unconnected to Betaport or any existing virtual environment. Our next steps will be to continue improving the interface on the front end, and to fully implement the simulation engine, thus enabling us to connect METI to BetaPort and begin running simulations.
 </p>
 
 <a href="{{ site.github.url }}/what-we-do/student-projects/">Return to Student Projects</a>

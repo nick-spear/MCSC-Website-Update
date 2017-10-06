@@ -9,28 +9,14 @@ permalink: /about/staff-faculty/
 <p><strong><br />Raymond Albert, PhD</strong>
 <br />Director MCSC
 <br />Professor of Computer Science
+<br />University of Maine, Fort Kent
 <br /><a href="mailto:ralbert@maine.edu">ralbert@maine.edu</a>
-<br />207-780-5646</p>
+<br />207-834-7883, ext. 7696</p>
 
 <strong><br>Lynn Lovewell</strong>
 <br>Director of Operations
 <br><a href="mailto:lynn.lovewell@maine.edu">lynn.lovewell@maine.edu</a>
 <br>207-780-4782
-
-<strong><br>Edward Sihler</strong>
-<br>Scientific Systems Administrator
-<br><a href="mailto:edward.sihler@maine.edu">edward.sihler@maine.edu</a>
-<br>207-780-4336
-
-<strong><br>James Owens</strong>
-<br>Senior Research Fellow
-<br><a href="mailto:james.owens@maine.edu">james.owens@maine.edu</a>
-
-<strong><br>Raymond Albert, PhD</strong>
-<br>Professor of Computer Science
-<br>University of Maine, Fort Kent
-<br><a href="mailto:ralbert@maine.edu">ralbert@maine.edu</a>
-<br>207-834-7883, ext. 7696
 
 <strong><br>Carl Blue, PhD</strong>
 <br>Associate Professor

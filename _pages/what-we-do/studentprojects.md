@@ -8,21 +8,22 @@ permalink: /what-we-do/student-projects/
 <h2>Beta Port</h2>
 
 <p>
-Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more. 
+Beta Port, loosely modeled on the city of Portland, is a cyber security exercise environment. With the guidance of MCSC’s Scientific Systems Administrator, Edward Sihler, students architected the Beta Port infrastructure. This involved devising a group of fictional businesses to inhabit Beta Port and grow them into a collection of virtual machines and virtual networks. Students implemented a variety of technologies to actualize Beta Port and continue to maintain it acting as the virtual city’s Systems Administrators, Network Administrators, Web Developers, Database Administrators, and more.
 <br><a href="{{ site.github.url }}/what-we-do/student-projects/Betaport/">See more...</a>
 </p>
 
 <h2>Digital Barbarians</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget mi proin sed libero enim sed faucibus turpis in. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Commodo viverra maecenas accumsan lacus. Volutpat odio facilisis mauris sit amet. Turpis cursus in hac habitasse platea dictumst quisque. Et odio pellentesque diam volutpat commodo sed egestas. Sodales ut etiam sit amet nisl purus. Auctor elit sed vulputate mi sit. Semper eget duis at tellus at urna. Est placerat in egestas erat. Suspendisse ultrices gravida dictum fusce ut. Sem fringilla ut morbi tincidunt augue. At ultrices mi tempus imperdiet nulla. Massa tincidunt nunc pulvinar sapien et ligula.
+The Digital Barbarians project is an endeavour by the MCSC to create educational tools that provide any user with basic, hands-on experience with common cyber security threats.
+Digital Barbarians currently hosts two games, Kracken and The Phishing Game, to which show common password cracking and phishing attempts at work, respectively.
 <br><a href="{{ site.github.url }}/what-we-do/student-projects/Digital-Barbarians/">See more...</a>
 </p>
 
 <h2>METI</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+METI (Metropolitan Event Training Interface) is an interactive map of a city. It’s purpose is to simulate real-world events such as natural disasters, accidents, power outages, and malicious attacks. These simulations are then used to help train users in emergency response, and how to recognize the signs of potential attacks on everything from the power grid to the sewage.
 <br><a href="{{ site.github.url }}/what-we-do/student-projects/METI/">See more...</a>
 </p>
 

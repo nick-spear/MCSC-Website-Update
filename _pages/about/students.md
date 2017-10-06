@@ -5,28 +5,7 @@ permalink: /about/students/
 ---
 <h1>Students</h1>
 
-<!--
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
-<h2>
-Dudechamp McBuffpants
-</h2>
-<p>
-Senior, Interpretive Whittling
-</p>
-<p class="student-about">
-Initially entering USM as Philosophy of Inter-Office Politics and Passive Aggression Major, Dudechamp struggled to find a true sense of belonging in his field.
-In his sophmore year, a voluntary hallucinogenic chemical test brought Dudechamp to an empowering revelation - Intepretive whittling was his true calling.
-Now identifying himself as a, "Vaporwave Glitter Gnome," Dudechamp has come into his own within the scientific community.
-</p>
-</div>
-</div>
--->
-
-<div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
 <h2>
 Neil Cochran
 </h2>
@@ -34,29 +13,23 @@ Neil Cochran
 Computer Science, Minor in Biology
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+During Neil's time at MCSC, he has enjoyed learning many new skills and technologies such as Python, JavaScript, virtualization, and greatly increased his knowledge in C and networking. Neil has also participated in multiple events like Maine Technical Users Group (MTUG), a talk for STEM highschool students in Maine, and 'Dante's Coffee Shop'. Projects Neil has contributed to include a password tester, an email phishing game, and CyberBlip.
 </p>
-</div>
 </div>
 
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
 <h2>
 John Couch
 </h2>
 <p>
----
+Information Technology
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+John has been a part of MCSC since Spring of 2016 and has directed most of his energy towards building, maintaining, and documenting the Betaport project, a virtual town, which MCSC uses for Cyber Corps - a cyber security training exercise. Through this project, he’s been able to apply the knowledge he’s gained in the classroom by working in a hands on environment. He’s also learned a lot about things that aren’t explicitly taught, like documentation, communication, and leadership skills.
 </p>
-</div>
 </div>
 
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
 <h2>
 Lily Marvin
 </h2>
@@ -64,76 +37,57 @@ Lily Marvin
 Computer Science
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+A strong member of the METI team, Lily has worked to learn web development through HTML5, CSS3 and Javascript to provide key front-end features to the METI project.
 </p>
-</div>
 </div>
 
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
 <h2>
 Robert Pariseau
 </h2>
 <p>
----
+Information Technology, Minor in Computer Science
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+Robert joined MCSC just over a year ago where he joined the Betaport team. While on the Betaport team, he helped to build Betaport into the virtual city it is today. He was one of many responsible for setting up fictional company networks within Betaport while developing applications and deploying technologies that would be found in the real world. One of his noted projects while on the Betaport team was the design of Port Hosting Authority Cloud Service (PHACS), a cloud service to be implemented within Betaport.
+Robert is now currently heading up the Mobile Range and Digital Barbarians, leading a team of developers in building tools used for cyber security. His team is currently working on Kraken, a password tool that operates over the network, and a Phishing game designed to bring awareness.
 </p>
-</div>
 </div>
 
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
+<img src="/img/staff_students/KSabochick2.JPG" height="200px" width="150px">
 <h2>
 Katrina Sabochick
 </h2>
 <p>
-Mathematics, Computer Science
+Pure Mathematics, Minor in Computer Science
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+Katrina is currently the team leader for the Metropolitan Event Training Interface (METI) project, which simulates crises and disasters in a city to help train clients in emergency response. Within METI, she is working to help design the city interface, as well as forming the foundation for the simulation engine that will be used to run scenarios for clients. Since joining this project, Katrina has worked with multiple programming languages including C, C++, JavaScript, and styling with HTML/CSS to help develop the METI system. For a more comprehensive overview of METI, please go to the
+<a href="{{ site.github.url }}/what-we-do/student-projects/METI/">METI project page</a>.
 </p>
-</div>
 </div>
 
 <div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
+<img src="/img/staff_students/NSpear1.jpg" height="200px" width="150px">
 <h2>
 Nickolas Spear
 </h2>
 <p>
-Mathematics, Minor in Computer Science
+Pure Mathematics, Minor in Computer Science
 </p>
 <p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
+Working on both METI and Digital Barbarians projects, Nick loves the excellent oppurtinities to learn beyond course curricula at the MCSC.
+C++, R, Python, and Javascript, and core fundamentals of computer networks play
+strong roles in both projects that Nick works on. Having minor initial knowledge in these languages and concepts, Nick has enjoyed learning and understanding
+these, both on his own and from his project members, as he worked to help bring these projects to fruition.
 </p>
 </div>
-</div>
 
-<div class="student">
-<img src="/img/MBenton2.jpg">
-<div>
-<h2>
-Mike Wong
-</h2>
-<p>
----
-</p>
-<p class="student-about">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Faucibus interdum posuere lorem ipsum. Ornare lectus sit amet est placerat. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Integer quis auctor elit sed vulputate. Amet risus nullam eget felis. Nisl suscipit adipiscing bibendum est. Lacus vestibulum sed arcu non.
-</p>
-</div>
-</div>
-
-
-
+<br>
 <h1> Past Students </h1>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Samuel Barton
 </h2>
@@ -148,7 +102,7 @@ Computer Science, Physics, Minor in Mathematics
 </p>
 </div>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Storme Charette
 </h2>
@@ -163,7 +117,7 @@ Computer Science
 </p>
 </div>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Christina Costello
 </h2>
@@ -178,7 +132,7 @@ Computer Science
 </p>
 </div>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Tyler LaBerge
 </h2>
@@ -193,7 +147,7 @@ Computer Science
 </p>
 </div>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Alex Weeman
 </h2>
@@ -208,7 +162,7 @@ Technology Management, Minor in Business Administration
 </p>
 </div>
 
-<div class="student-noimg">
+<div class="student">
 <h2>
 Caroline Whitman
 </h2>
@@ -223,6 +177,16 @@ Computer Science
 </p>
 </div>
 
+<div class="student">
+<h2>
+Michael Wong
+</h2>
+<p>
+Computer Science
+</p>
+<p class="student-about">
+During his time at MCSC, Michael played an influencial role in the production of Digital Barbarians, providing python-based frameworks for both Kracken and the Phishing Game.
+</p>
+</div>
+
 <h2><a href="/what-we-do/student-projects">Student Projects &raquo;</a>
-
-

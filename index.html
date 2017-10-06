@@ -38,7 +38,7 @@ permalink: /
 
                 <h2><a href="/what-we-do/student-projects/METI/">METI</a></h2>
                 <p><strong>Students:</strong> Storme Charette, Lily Marvin, Nickolas Spear, Katrina Sabochick</p>
-                <p><a href="/what-we-do/student-projects/METI/"><img src="https://img08.deviantart.net/81d7/i/2016/207/c/2/what_sonic_was_doing_the_entire_time_at_the_party_by_jaysonjean-dabfbe7.png" width="500" alt="A virtual city simulation in METI"></a>
+                <p><a href="/what-we-do/student-projects/METI/"><img src="/img/METI-Screenshot2.png" width="500" alt="A virtual city simulation in METI"></a>
                 METI (Metropolitan Event Training Interface) is an interactive map of a city. It’s purpose is to simulate real-world events such as natural disasters, accidents, power outages, and malicious attacks.
                 </p>
              </div>
@@ -60,7 +60,7 @@ permalink: /
                   <h2>Upcoming Events</h2>
 
                   <ul class="post-list">
-                    {% for post in site.categories.events reversed limit:10 %}
+                    {% for post in site.categories.events limit:10 %}
                       <li>
                           <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><h4>
                         <p class="post-meta">{{ post.date | date: "%b %Y" }}</p>
@@ -84,5 +84,3 @@ permalink: /
           <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
           <!-- END Main Column / Sidebar -->
           <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-

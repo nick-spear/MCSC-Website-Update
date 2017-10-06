@@ -1820,31 +1820,19 @@ ul.topsocial .tooltip:after {
 }
 
 .student {
-    margin-bottom: 18px;
+		display: block;
+		margin-bottom: 40px;
 }
-.student div {
-    position: absolute;
-    display: inline;
-    margin-left: 15px;
+.student img {
+	  float: left;
+		margin-right: 15px;
 }
-.student div h2 {
+.student p {
+	  clear: none;
+		margin-bottom: 5px;
+}
+.student h2 {
     margin-bottom: 0px;
-}
-.student div p {
-    margin-bottom: 10px;
-}
-.student .student-about {
-    width: 530px;
-}
-
-.student-noimg {
-    margin-bottom: 40px;
-}
-.student-noimg h2 {
-    margin-bottom: 0px;
-}
-.student-noimg p {
-    margin-bottom: 5px;
 }
 
 .student-about {
@@ -1853,10 +1841,7 @@ ul.topsocial .tooltip:after {
     margin-bottom: 0px;
     color: #333;
 }
-.student .student-about {
-    overflow: auto;
-    max-height: 135px;
-}
+
 .column-one-half, .column-one-third, .column-one-fourth, .column-one-fifth, .column-three-qtr {
 	margin-bottom: 24px;
     float: left;
